@@ -1,0 +1,13 @@
+/* 1366px */
+/* 768px */
+body {
+  background-color: aqua;
+}
+body div {
+  background-color: burlywood;
+  width: 71.145vw;
+  height: 79.256vh;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=styles.css.map */

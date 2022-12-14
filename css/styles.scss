@@ -1,0 +1,14 @@
+$scrW:71.145vw; /* 1366px */
+$scrH:79.256vh; /* 768px */
+
+body{
+    background-color: aqua;
+
+    & div{
+        background-color: burlywood;
+        width: $scrW;
+        height: $scrH;
+        margin:0 auto;
+       
+    }
+}
